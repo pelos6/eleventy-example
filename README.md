@@ -14,3 +14,7 @@ Read [Test the Preview Vercel Deploys](https://glebbahmutov.com/blog/develop-pre
 * con vercel siguiendo la opción de importar proyecto desde gitHub dando los permisos y a la primera
 * https://eleventy-example-henna.vercel.app/
 
+## INTEGRACIÓN CONTINUA
+
+* probando la integración contínua
+
