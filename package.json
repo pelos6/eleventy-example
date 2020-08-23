@@ -1,0 +1,19 @@
+{
+  "name": "eleventy-example",
+  "version": "1.0.0",
+  "description": "Test the Preview Vercel Deploys",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "cypress": "4.12.1",
+    "prettier": "2.0.5"
+  }
+}
